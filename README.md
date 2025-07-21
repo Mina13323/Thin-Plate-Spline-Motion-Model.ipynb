@@ -52,7 +52,7 @@ Visualize both grid and warped results.
 Face Alignment: Match facial landmarks before GAN inference.
 
 ![Demo](Demo.gif)
-[Download Demo Video](videos/demo.mp4)
+[Download Demo Video](Final.mp4)
 
 Pose Transfer: Apply TPS to map poses from one person to another.
 
