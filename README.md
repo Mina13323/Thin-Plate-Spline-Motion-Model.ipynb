@@ -51,7 +51,7 @@ Visualize both grid and warped results.
 📸 Example Use Cases
 Face Alignment: Match facial landmarks before GAN inference.
 
-![Arabic Product Matching System Design](images/arabic_matching_design.png)
+![Demo](Demo.gif)
 
 Pose Transfer: Apply TPS to map poses from one person to another.
 
